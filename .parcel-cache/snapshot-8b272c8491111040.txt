@@ -1,4 +1,4 @@
-6049
+6053
 56C:\Users\SBC\Desktop\practise\node_modules\@parcel\types133536864258943740 1
 74C:\Users\SBC\Desktop\practise\node_modules\svgo\plugins\convertPathData.js133536864284712420 0
 60C:\Users\SBC\Desktop\practise\node_modules\process\README.md133536865326655561 0
@@ -58,8 +58,8 @@
 53C:\Users\SBC\Desktop\practise\node_modules\micromatch133536864252622110 1
 82C:\Users\SBC\Desktop\practise\node_modules\caniuse-lite\data\features\clipboard.js133536864298395806 0
 107C:\Users\SBC\Desktop\practise\node_modules\@swc\helpers\_\_class_static_private_field_spec_set\package.json133536864307918195 0
+45C:\Users\SBC\Desktop\practise\dist\index.html133536869830336429 0
 90C:\Users\SBC\Desktop\practise\node_modules\@parcel\reporter-dev-server\src\serverErrors.js133536864260864189 0
-45C:\Users\SBC\Desktop\practise\dist\index.html133536865345551264 0
 116C:\Users\SBC\Desktop\practise\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Block.js133536864265265245 0
 74C:\Users\SBC\Desktop\practise\node_modules\caniuse-lite\data\regions\GN.js133536864314719885 0
 84C:\Users\SBC\Desktop\practise\node_modules\@swc\helpers\src\_to_consumable_array.mjs133536864315440045 0
@@ -75,14 +75,12 @@
 71C:\Users\SBC\Desktop\practise\node_modules\nth-check\lib\esm\index.d.ts133536864274069784 0
 78C:\Users\SBC\Desktop\practise\node_modules\css-tree\lib\syntax\node\Comment.js133536864301836716 0
 91C:\Users\SBC\Desktop\practise\node_modules\react-router\dist\react-router.production.min.js133536864782105615 0
-52C:\Users\SBC\Desktop\practise\dist\index.7826abd7.js133536865346751614 0
 69C:\Users\SBC\Desktop\practise\node_modules\js-yaml\lib\type\binary.js133536864250301550 0
 49C:\Users\SBC\Desktop\practise\node_modules\semver133536864283912238 1
 98C:\Users\SBC\Desktop\practise\node_modules\@swc\helpers\cjs\_class_check_private_static_access.cjs133536864271349191 0
 71C:\Users\SBC\Desktop\practise\node_modules\svgo\plugins\_collections.js133536864277990757 0
 52C:\Users\SBC\Desktop\practise\node_modules\@mischnic133536864214447025 1
 62C:\Users\SBC\Desktop\practise\node_modules\micromatch\index.js133536864249661381 0
-56C:\Users\SBC\Desktop\practise\dist\index.7826abd7.js.map133536865346911594 0
 52C:\Users\SBC\Desktop\practise\node_modules\lru-cache133536864252462237 1
 89C:\Users\SBC\Desktop\practise\node_modules\@swc\helpers\src\_class_private_method_get.mjs133536864314079719 0
 68C:\Users\SBC\Desktop\practise\node_modules\type-fest\ts41\index.d.ts133536864270548907 0
@@ -113,10 +111,10 @@
 124C:\Users\SBC\Desktop\practise\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\ClassSelector.js133536864269668698 0
 71C:\Users\SBC\Desktop\practise\node_modules\type-fest\source\except.d.ts133536864269026233 0
 114C:\Users\SBC\Desktop\practise\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts.map133536864271429124 0
-36C:\Users\SBC\Desktop\practise\App.js133536858283890403 0
+36C:\Users\SBC\Desktop\practise\App.js133536872998351305 0
 93C:\Users\SBC\Desktop\practise\node_modules\css-select\node_modules\entities\lib\escape.js.map133536864284072269 0
 74C:\Users\SBC\Desktop\practise\node_modules\react-router-dom\dist\server.js133536864782425713 0
-34C:\Users\SBC\Desktop\practise\dist133536865346911594 1
+34C:\Users\SBC\Desktop\practise\dist133536881842494236 1
 73C:\Users\SBC\Desktop\practise\node_modules\nth-check\lib\compile.d.ts.map133536864264465044 0
 89C:\Users\SBC\Desktop\practise\node_modules\csso\node_modules\css-tree\cjs\utils\clone.cjs133536864270068774 0
 51C:\Users\SBC\Desktop\practise\node_modules\css-tree133536864310718942 1
@@ -1811,6 +1809,7 @@
 66C:\Users\SBC\Desktop\practise\node_modules\posthtml-render\license133536864248301021 0
 71C:\Users\SBC\Desktop\practise\node_modules\posthtml-render\package.json133536864251501814 0
 72C:\Users\SBC\Desktop\practise\node_modules\electron-to-chromium\index.js133536864259503817 0
+49C:\Users\SBC\Desktop\practise\components\Error.js133536881835212448 0
 76C:\Users\SBC\Desktop\practise\node_modules\htmlnano\docs\docs\050-modules.md133536864291754155 0
 80C:\Users\SBC\Desktop\practise\node_modules\@parcel\resolver-default\package.json133536864255182748 0
 79C:\Users\SBC\Desktop\practise\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133536864285912723 0
@@ -6048,3 +6047,8 @@
 70C:\Users\SBC\Desktop\practise\node_modules\.bin\update-browserslist-db133536864331924135 0
 74C:\Users\SBC\Desktop\practise\node_modules\.bin\update-browserslist-db.ps1133536864331924135 0
 59C:\Users\SBC\Desktop\practise\dist\practise.3464ddca.js.map133536854342664934 0
+40C:\Users\SBC\Desktop\practise\components133536871750135357 1
+50C:\Users\SBC\Desktop\practise\components\Header.js133536870379969488 0
+51C:\Users\SBC\Desktop\practise\components\Contact.js133536870805593869 0
+52C:\Users\SBC\Desktop\practise\dist\index.7826abd7.js133536881842254232 0
+56C:\Users\SBC\Desktop\practise\dist\index.7826abd7.js.map133536881842494236 0
